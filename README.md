@@ -55,9 +55,12 @@
 
    - Open a command prompt or terminal and run:
 
-     ```bash
+     ```
      refreshenv
-     tlmgr install amsmath babel-english cbfonts-fd cm-super ctex doublestroke dvisvgm everysel fontspec frcursive fundus-calligra gnu-freefont jknapltx latex-bin mathastext microtype ms physics preview ragged2e relsize rsfs setspace standalone tipa wasy wasysym xcolor xetex xkeyval
+     tlmgr install amsmath babel-english cbfonts-fd cm-super ctex doublestroke dvisvgm everysel
+     tlmgr install fontspec frcursive fundus-calligra gnu-freefont jknapltx latex-bin
+     tlmgr install mathastext microtype ms physics preview ragged2e relsize rsfs
+     tlmgr install setspace standalone tipa wasy wasysym xcolor xetex xkeyval
      ```
 
 ## Usage
