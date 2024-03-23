@@ -63,6 +63,13 @@
      tlmgr install setspace standalone tipa wasy wasysym xcolor xetex xkeyval
      ```
 
-## Usage
+## Testing ManimCE
 
-## Additional Information
+1. Save this file as `basic.py`.
+
+2. Open a command prompt (cmd) in the directory where you saved `basic.py`.
+
+3. Run the following command in the command prompt:
+
+   ```cmmd
+   manim basic.py SquareToCircle -pqm
